@@ -1,5 +1,5 @@
 # Online Exam System
- DBMS project on topic Online Examination System
+ DBMS project on topic Online Examination System.
 
 
 Technology Used:
